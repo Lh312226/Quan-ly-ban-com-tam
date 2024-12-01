@@ -1,0 +1,30 @@
+C:\Users\phuon\source\repos\QLBH3\QLBH3.BLL\bin\Debug\QLBH3.BLL.dll.config
+C:\Users\phuon\source\repos\QLBH3\QLBH3.BLL\bin\Debug\QLBH3.BLL.dll
+C:\Users\phuon\source\repos\QLBH3\QLBH3.BLL\bin\Debug\QLBH3.BLL.pdb
+C:\Users\phuon\source\repos\QLBH3\QLBH3.BLL\bin\Debug\EntityFramework.dll
+C:\Users\phuon\source\repos\QLBH3\QLBH3.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phuon\source\repos\QLBH3\QLBH3.BLL\bin\Debug\QLBH3.DAL.dll
+C:\Users\phuon\source\repos\QLBH3\QLBH3.BLL\bin\Debug\QLBH3.DAL.pdb
+C:\Users\phuon\source\repos\QLBH3\QLBH3.BLL\bin\Debug\QLBH3.DAL.dll.config
+C:\Users\phuon\source\repos\QLBH3\QLBH3.BLL\bin\Debug\EntityFramework.xml
+C:\Users\phuon\source\repos\QLBH3\QLBH3.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phuon\source\repos\QLBH3\QLBH3.BLL\obj\Debug\QLBH3.BLL.csproj.AssemblyReference.cache
+C:\Users\phuon\source\repos\QLBH3\QLBH3.BLL\obj\Debug\QLBH3.BLL.csproj.CoreCompileInputs.cache
+C:\Users\phuon\source\repos\QLBH3\QLBH3.BLL\obj\Debug\QLBH3.BLL.csproj.Up2Date
+C:\Users\phuon\source\repos\QLBH3\QLBH3.BLL\obj\Debug\QLBH3.BLL.dll
+C:\Users\phuon\source\repos\QLBH3\QLBH3.BLL\obj\Debug\QLBH3.BLL.pdb
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.BLL\bin\Debug\QLBH3.BLL.dll.config
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.BLL\bin\Debug\QLBH3.BLL.dll
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.BLL\bin\Debug\QLBH3.BLL.pdb
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.BLL\bin\Debug\EntityFramework.dll
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.BLL\bin\Debug\QLBH3.DAL.dll
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.BLL\bin\Debug\QLBH3.DAL.pdb
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.BLL\bin\Debug\QLBH3.DAL.dll.config
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.BLL\bin\Debug\EntityFramework.xml
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.BLL\obj\Debug\QLBH3.BLL.csproj.AssemblyReference.cache
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.BLL\obj\Debug\QLBH3.BLL.csproj.CoreCompileInputs.cache
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.BLL\obj\Debug\QLBH3.BLL.csproj.Up2Date
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.BLL\obj\Debug\QLBH3.BLL.dll
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.BLL\obj\Debug\QLBH3.BLL.pdb

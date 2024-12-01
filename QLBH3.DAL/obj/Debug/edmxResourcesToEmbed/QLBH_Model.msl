@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLBH2ModelStoreContainer" CdmEntityContainer="QLBH2Entities">
+    <EntitySetMapping Name="ChiTietDonHang">
+      <EntityTypeMapping TypeName="QLBH2Model.ChiTietDonHang">
+        <MappingFragment StoreEntitySet="ChiTietDonHang">
+          <ScalarProperty Name="MaChiTiet" ColumnName="MaChiTiet" />
+          <ScalarProperty Name="MaDonHang" ColumnName="MaDonHang" />
+          <ScalarProperty Name="MaMonAn" ColumnName="MaMonAn" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="GiaBan" ColumnName="GiaBan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DonHang">
+      <EntityTypeMapping TypeName="QLBH2Model.DonHang">
+        <MappingFragment StoreEntitySet="DonHang">
+          <ScalarProperty Name="MaDonHang" ColumnName="MaDonHang" />
+          <ScalarProperty Name="MaKhachHang" ColumnName="MaKhachHang" />
+          <ScalarProperty Name="NgayDat" ColumnName="NgayDat" />
+          <ScalarProperty Name="TongTien" ColumnName="TongTien" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KhachHang">
+      <EntityTypeMapping TypeName="QLBH2Model.KhachHang">
+        <MappingFragment StoreEntitySet="KhachHang">
+          <ScalarProperty Name="MaKhachHang" ColumnName="MaKhachHang" />
+          <ScalarProperty Name="TenKhachHang" ColumnName="TenKhachHang" />
+          <ScalarProperty Name="SoDienThoai" ColumnName="SoDienThoai" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="MaTaiKhoan" ColumnName="MaTaiKhoan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MonAn">
+      <EntityTypeMapping TypeName="QLBH2Model.MonAn">
+        <MappingFragment StoreEntitySet="MonAn">
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="MaMonAn" ColumnName="MaMonAn" />
+          <ScalarProperty Name="TenMonAn" ColumnName="TenMonAn" />
+          <ScalarProperty Name="MoTa" ColumnName="MoTa" />
+          <ScalarProperty Name="Gia" ColumnName="Gia" />
+          <ScalarProperty Name="SoLuongTon" ColumnName="SoLuongTon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TaiKhoan">
+      <EntityTypeMapping TypeName="QLBH2Model.TaiKhoan">
+        <MappingFragment StoreEntitySet="TaiKhoan">
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="MaTaiKhoan" ColumnName="MaTaiKhoan" />
+          <ScalarProperty Name="TenTaiKhoan" ColumnName="TenTaiKhoan" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="LoaiTaiKhoan" ColumnName="LoaiTaiKhoan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

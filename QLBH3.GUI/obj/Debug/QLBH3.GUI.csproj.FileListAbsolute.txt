@@ -1,0 +1,64 @@
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.GUI.exe.config
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.GUI.exe
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.GUI.pdb
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\bin\Debug\EntityFramework.dll
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.BLL.dll
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.DAL.dll
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.BLL.pdb
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.BLL.dll.config
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.DAL.pdb
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.DAL.dll.config
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\bin\Debug\EntityFramework.xml
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.csproj.AssemblyReference.cache
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.Form1.resources
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.Properties.Resources.resources
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.csproj.GenerateResource.cache
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.csproj.CoreCompileInputs.cache
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.csproj.Up2Date
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.exe
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.pdb
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.Admin.resources
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.User.resources
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.DK.resources
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.UpdatePass.resources
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.Admin_TK.resources
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.Profile.resources
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.MonAn_Admin.resources
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.Ad_DonHang.resources
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.User_DonHang.resources
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.User_ChiTiet.resources
+C:\Users\phuon\source\repos\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.Doanh_thu.resources
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.GUI.exe.config
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.GUI.exe
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.GUI.pdb
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\bin\Debug\EntityFramework.dll
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.BLL.dll
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.DAL.dll
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.BLL.pdb
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.BLL.dll.config
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.DAL.pdb
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\bin\Debug\QLBH3.DAL.dll.config
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\bin\Debug\EntityFramework.xml
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.csproj.AssemblyReference.cache
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.Admin.resources
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.Admin_TK.resources
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.Ad_DonHang.resources
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.DK.resources
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.Doanh_thu.resources
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.Form1.resources
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.MonAn_Admin.resources
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.Profile.resources
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.Properties.Resources.resources
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.UpdatePass.resources
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.User.resources
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.User_ChiTiet.resources
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.User_DonHang.resources
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.csproj.GenerateResource.cache
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.csproj.CoreCompileInputs.cache
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.csproj.Up2Date
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.exe
+C:\Users\phuon\OneDrive\Máy tính\QLBH3\QLBH3.GUI\obj\Debug\QLBH3.GUI.pdb

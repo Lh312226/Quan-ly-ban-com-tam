@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLBH3.GUI", "QLBH3.GUI\QLBH3.GUI.csproj", "{F5FA8F3D-28FE-48C3-99EF-EEF4E91FBA8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLBH3.DAL", "QLBH3.DAL\QLBH3.DAL.csproj", "{F69D5822-A948-4362-8A7F-829449397F6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLBH3.BLL", "QLBH3.BLL\QLBH3.BLL.csproj", "{74940006-F613-4CCD-96A8-70275DF1E360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5FA8F3D-28FE-48C3-99EF-EEF4E91FBA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FA8F3D-28FE-48C3-99EF-EEF4E91FBA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FA8F3D-28FE-48C3-99EF-EEF4E91FBA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FA8F3D-28FE-48C3-99EF-EEF4E91FBA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69D5822-A948-4362-8A7F-829449397F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69D5822-A948-4362-8A7F-829449397F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69D5822-A948-4362-8A7F-829449397F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69D5822-A948-4362-8A7F-829449397F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74940006-F613-4CCD-96A8-70275DF1E360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74940006-F613-4CCD-96A8-70275DF1E360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74940006-F613-4CCD-96A8-70275DF1E360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74940006-F613-4CCD-96A8-70275DF1E360}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A7FBE87-DBC9-454B-9B15-C2812A226181}
+	EndGlobalSection
+EndGlobal
